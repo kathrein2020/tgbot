@@ -1,0 +1,9 @@
+ru\skillfactorydemo\tgbot\service\BotService.class
+ru\skillfactorydemo\tgbot\config\AppConfig.class
+ru\skillfactorydemo\tgbot\service\CentralRussianBankService.class
+ru\skillfactorydemo\tgbot\dto\GetCursOnDateXML.class
+ru\skillfactorydemo\tgbot\dto\GetCursOnDateXmlResponse.class
+ru\skillfactorydemo\tgbot\dto\ValuteCursOnDate.class
+ru\skillfactorydemo\tgbot\TgbotApplication.class
+ru\skillfactorydemo\tgbot\controllers\CurrencyController.class
+ru\skillfactorydemo\tgbot\dto\GetCursOnDateXmlResult.class
